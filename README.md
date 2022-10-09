@@ -5,5 +5,5 @@
 3. Name: Mohilesh Vince Jugdeep, Email: mjugd068@uottawa.ca, Student Number: 300282963, My [Github profile](https://github.com/MohileshVince)
 4.
 
-**Description of our Project**
-PhotoPhysics is a website that will be useful for people who require help solving or visulize problems in physics. The website is a camera calculator that scans physics problems and provides the solution. The name PhotoPhysics came from an inspiration on the already existing "PhotoMath", we feel like students need support in Physics as much as they do in Mathematics. We believe this camera calculator is an important learning support tool.
+**Description of our Project**\
+Physics, along with Math, is considered to be one of the most challending classes students take in High School as well as in post-secondary institutions. Given the great abundance of smartphones and math-solving technology, how great would it be if they could solve our physics problems too? Inspired by the already existing PhotoMath, PhotoPhysics is an innovated mobile application which uses a specific algorithmic technology, allowing for the solving and visualizing of various types of Physics Word Problems. 
