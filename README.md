@@ -6,4 +6,4 @@
 4.
 
 **Description of our Project**
-PhotoPhysics is a website that will be useful for people who require help solving or visulize problems in physics. The website is a camera calculator that scans physics problems and provides the solution. The name PhotoPhysics came from an inspiration on the already existing "PhotoMath", we feel like students need support in Physiocs as much as they do in Mathematics. We believe this camera calculator is an important learning support tool.
+PhotoPhysics is a website that will be useful for people who require help solving or visulize problems in physics. The website is a camera calculator that scans physics problems and provides the solution. The name PhotoPhysics came from an inspiration on the already existing "PhotoMath", we feel like students need support in Physics as much as they do in Mathematics. We believe this camera calculator is an important learning support tool.
