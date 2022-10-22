@@ -6,4 +6,4 @@
 4. Liam Madgett (300283842) Email: lmadg047@uottawa.ca, My [Github profile](https://github.com/LiamMadgett)
 
 **Description of our Project**\
-Physics, along with Math, is considered to be one of the most challending classes students take in High School as well as in post-secondary institutions. Given the great abundance of smartphones and math-solving technology, how great would it be if they could solve our physics problems too? Inspired by the already existing PhotoMath, PhotoPhysics is an innovated mobile application which uses a specific algorithmic technology, allowing for the solving and visualizing of various types of Physics Word Problems. 
+Physics, along with Math, is considered to be one of the most challenging classes students take in High School as well as in post-secondary institutions. Given the great abundance of smartphones and math-solving technology, how great would it be if they could solve our physics problems too? Inspired by the already existing PhotoMath, PhotoPhysics is an innovated mobile application which uses a specific algorithmic technology, allowing for the solving and visualizing of various types of Physics Word Problems. 
